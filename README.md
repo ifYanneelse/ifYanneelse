@@ -39,7 +39,9 @@
 
 <br>
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifYanneelse&layout=compact&langs_count=10)](https://github.com/ifYanneelse/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifYanneelse&langs_count=10)](https://github.com/ifYanneelse/github-readme-stats)
 
 </div>
+
+<br>
